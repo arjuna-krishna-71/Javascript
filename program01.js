@@ -87,3 +87,48 @@
 // };
 // Here only the var Superman is Hoisted as (undefined), not the function body.
 
+// !#@&^#@#^@#&^(*&(*@!(**(*@*(**#)(*@#)(*#)))))-------------------------------ARRAYS-----------------------------&*$&(*&$(**@^&*^&&^(*#&$(*&#@$#$(*#$&(*@#&$(*&#$(*(*#$&)))))))
+
+// const a = new Array("Jaganadhan"); ----------------------------------------------*********************
+// a.push("Jaganadhan");
+// console.log(Array.from('hi')); //Output : ['h','i']
+
+// function isEven(e){
+//     return e%2===0;
+// }
+// let array = [2,4,6];
+// let res = array.every(isEven);
+// console.log(res);
+
+// #######################CallBack####################################
+// A callback function is a function in which it does not have a name  rather it have a return typeof.
+// let array = [2,3,4]
+// let res = array.every((e)=>e>=2);
+// console.log(res);
+// output: true
+
+// let res3 = array.every((e)=>(e>=2));
+// console.log(res3);
+// output: true
+// -- These both are same type and will give the same value
+
+// let res2 = array.every((e)=>{return e>=2});  //If the Curly braces are place then the RERTURN keyword is necessary********************************************************
+// console.log(res2);
+// output: true
+// OR ELSE
+// let res4 = array.every((e)=>{e>=2});
+// console.log(res4);
+// output: false
+// &$&*#@&(&(*()*))--------Fill and Filter---------------&*&(*&(*(*)(*)))
+// ---------FILL------------------
+// Syntax: Array.fill(Replacing Value, Inclusive startingIndex,exlusive endIndex);
+// let array = [2,3,5,6];
+// let res = array.fill('j',1,3);
+// console.log(res);
+// Here, the Inclusice means RERPLACING the starting index value also and Exclusive means NOT-Replacing this value.
+// In the above example, 
+// the 'j' -> Is the replacing value
+// the 1 -> Represents the Replacable Starting Index to be replaced
+// the 3 -> Represents the Not Replacing end index value.
+// The Inclusice is including this value also.
+// The Exclusive is Excluding this value and replacing the values before this value and Excluding this value. 
