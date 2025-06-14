@@ -1,3 +1,17 @@
+// $*#@&$*&#$(**&#()$*#()$*#()$*(#*$)(#@*$)(&%(*&#*%&*%*&)(&%*()))) ________________________________JAVASCRIPT________________________________*%$(*#)(%*$()#*%_()*%_)(#_)%(#_)(_)#(_)#$&
+// _________________________________________________________________________________________________Brendan Eich______________________________________________________________
+// ----> Javascript was developed by BRENDAN EICH in 1995 while working at Netscape Communications. He created the langauge in just "TEN" days ti enable interactive web pages.
+// ----> Initially it was name "Mocha" and later "LiveScript" before settling on "JAVASCRIPT".
+
+// @((*&*@&@**@$*()@*()@*#()*))---------------------------ECMAScript-----------------------&$(*&^$(@^^#^$^@&$(*@&#*())))
+
+// -- In previous there are lot of scripting langauges like javascript, action script, Jscript which were competing with each other
+// -- This behaviour made the BROWSER to be difficult for supporting all of them.
+// --------> In 1996 the development of ECMAScript started.
+// --------> So, later in 1997 the first version of the ECMAScript was adopted.
+// --------> Upto ES1,ES2,ES3,ES4,ES5,ES6 they are named after "ES", but later from 2016 they are named after the year fully like ECMAScript 2016,...
+
+
 // Falsy values and coercive values
 // FALSY VALUES#######################################################
 // Whatever you try to print these types it will return false.
@@ -72,3 +86,4 @@
 //     console.log("Joe Doe");
 // };
 // Here only the var Superman is Hoisted as (undefined), not the function body.
+
